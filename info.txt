@@ -1,0 +1,29 @@
+Facebook
+https://medium.com/analytics-vidhya/facebook-recommendation-system-case-study-8dfc3ff5ddcc
+Website
+
+https://github.com/Ultimatespd/Facebook-RS-Case-study/blob/main/FB_EDA.ipynb
+جيتهاب
+
+https://www.kaggle.com/competitions/FacebookRecruiting/code
+داتاست
+
+
+https://365datascience.com/tutorials/how-to-build-recommendation-system-in-python/
+Books
+
+
+https://zenodo.org/record/4534217
+داتاست RS
+
+https://datasciencedojo.com/blog/recommendation-system-using-python/
+
+https://github.com/lingabalaji17/SentimentBasedProductRecommendation/blob/main/SentimentBasedProductRecommendation.ipynb
+
+https://www.researchgate.net/publication/354083599_An_Approach_to_Integrating_Sentiment_Analysis_into_Recommender_Systems
+
+https://www.projectpro.io/article/recommender-systems-python-methods-and-algorithms/413
+
+
+# UI/UX
+https://www.figma.com/file/28fN0KoKo3y2FVBhJHQrgd/SP-team?type=design&node-id=0-1&mode=design&t=2kREBL5SBVBhQQH9-0
